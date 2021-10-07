@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_example.scss"],"names":[],"mappings":"AAAA,OACE,wBAAA,CACA","file":"src.c807e529.css","sourceRoot":"../src","sourcesContent":[".hello {\n  font-family: $mainFont;\n  color: red;\n}\n"]}
